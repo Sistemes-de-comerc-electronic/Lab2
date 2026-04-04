@@ -1,0 +1,9 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+    <h1>Llistat de cotxes</h1>
+
+    {% for car in cars %}
+        <p>{{ car.name }}</p>
+    {% endfor %}
+{% endblock %}
