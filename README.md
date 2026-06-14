@@ -8,6 +8,10 @@ A partir d'aquest curs aquests exercicis es treballen com una activitat guiada a
 
 Consulteu també `ACTIVITAT_GUIADA_IA.md`, que indica quines evidències heu de preparar per Moodle.
 
+## Progressió de l’ajuda IA
+
+**Nivell 2 - Guiat amb exemples.** L’agent IA pot donar exemples, però ha de demanar que l’estudiant els adapti. Les proves visuals i la revisió crítica ja són obligatòries.
+
 ## Entrega per tasca
 
 Per cada targeta del Jira, Trello o GitHub Projects heu d'entregar:

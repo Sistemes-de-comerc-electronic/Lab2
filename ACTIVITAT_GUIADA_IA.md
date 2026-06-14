@@ -2,6 +2,10 @@
 
 Aquest laboratori treballa tasques de frontend. Cada tasca ha de tenir targeta de projecte, prompt, pla IA, PR, proves visuals i revisió crítica.
 
+## Nivell de guia
+
+**Nivell 2 - Guiat amb exemples.** Teniu exemples, però heu d’adaptar prompts i proves al vostre cas. Ja no val copiar una resposta genèrica.
+
 ## Entrega per cada tasca
 
 - **Descripció funcional:** què s'ha de fer i per què aporta valor al projecte.
