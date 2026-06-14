@@ -4,25 +4,6 @@
 
 Com a tal fer els exercicis no compta per a nota, però si els pengeu al Moodle podré tenir-ho en compte.
 
-A partir d'aquest curs aquests exercicis es treballen com una activitat guiada amb IA. Podeu fer servir una IA, però el lliurament no consisteix a enganxar codi: haureu de documentar els prompts que heu fet servir, com els heu millorat i com heu comprovat que la resposta tenia sentit.
-
-Consulteu també `ACTIVITAT_GUIADA_IA.md`, que indica quines evidències heu de preparar per Moodle.
-
-## Progressió de l’ajuda IA
-
-**Nivell 2 - Guiat amb exemples.** L’agent IA pot donar exemples, però ha de demanar que l’estudiant els adapti. Les proves visuals i la revisió crítica ja són obligatòries.
-
-## Entrega per tasca
-
-Per cada targeta del Jira, Trello o GitHub Projects heu d'entregar:
-
-1. **Descripció funcional:** què s'ha de fer i per què aporta valor.
-2. **Prompt utilitzat:** prompt inicial i refinaments.
-3. **Pla generat per la IA:** pla complet o resum.
-4. **Link al PR:** amb els commits associats. Pot estar obert o merged.
-5. **Joc de proves:** casos correctes, errors, codis HTTP si n'hi ha, captures, curl/Postman o comprovació visual.
-6. **Revisió crítica:** què ha fet bé la IA, què heu corregit i quines decisions són vostres.
-
 ## Instruccions per a agents IA
 
 Aquest repositori és una plantilla docent de frontend amb Twig, estils i JavaScript. Si esteu ajudant un estudiant:
