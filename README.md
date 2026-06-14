@@ -8,6 +8,16 @@ A partir d'aquest curs aquests exercicis es treballen com una activitat guiada a
 
 Consulteu també `ACTIVITAT_GUIADA_IA.md`, que indica quines evidències heu de preparar per Moodle.
 
+## Instruccions per a agents IA
+
+Aquest repositori és una plantilla docent de frontend amb Twig, estils i JavaScript. Si esteu ajudant un estudiant:
+
+- Podeu proposar canvis a controlador, Twig, CSS/LESS i JS, però mantenint responsabilitats separades.
+- No dupliqueu HTML entre plantilles si es pot resoldre amb herència de Twig.
+- No feu servir estils inline com a solució final si es pot crear una classe reutilitzable.
+- No proposeu ids repetits per marcar diversos elements; preferiu classes.
+- Incloeu sempre una comprovació al navegador i, si cal, a les eines de desenvolupador.
+
 ---
 
 ## Com entregar-ho
