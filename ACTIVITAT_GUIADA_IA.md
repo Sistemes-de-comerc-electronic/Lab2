@@ -1,23 +1,25 @@
 # Activitat guiada amb IA - Lab 2
 
-Aquest repositori és el punt de partida per practicar Twig, herència de plantilles, estils i JavaScript. L'activitat avalua com formuleu prompts per separar responsabilitats entre controlador, plantilla, CSS/LESS i JS.
+Aquest laboratori treballa tasques de frontend. Cada tasca ha de tenir targeta de projecte, prompt, pla IA, PR, proves visuals i revisió crítica.
 
-## Què heu de fer
+## Entrega per cada tasca
 
-1. Demaneu a la IA una pàgina Twig que mostri una llista de cotxes amb bucles.
-2. Feu un prompt per aplicar condicionals i classes CSS sense duplicar HTML.
-3. Feu un prompt per moure estils a `public/styles`.
-4. Feu un prompt per afegir una interacció amb JavaScript o jQuery.
-5. Demaneu a la IA una revisió de mantenibilitat de la seva pròpia proposta.
+- **Descripció funcional:** què s'ha de fer i per què aporta valor al projecte.
+- **Prompt utilitzat:** prompt inicial i prompts de refinament, si n'hi ha.
+- **Pla generat per la IA:** pla complet o resum si l'eina no el guarda.
+- **Link al PR:** URL del PR amb els commits associats. Pot estar obert o merged.
+- **Joc de proves:** casos correctes, errors esperats, captures, navegador, devtools o comprovació visual.
+- **Revisió crítica:** què ha fet bé la IA, què heu hagut de corregir i quines decisions són vostres.
 
-## INPUTS per Moodle
+## Tasques suggerides
 
-- Prompt inicial sobre Twig i dades que arriben del controlador.
-- Prompt per condicional + classe CSS.
-- Prompt per fitxers d'estils i comprovació al navegador.
-- Prompt per JavaScript, indicant selector i criteri.
-- Revisió crítica: què heu acceptat, rebutjat o adaptat.
+1. Mostrar una llista de cotxes amb Twig.
+2. Afegir un condicional visual amb classes CSS.
+3. Afegir una interacció amb JavaScript o jQuery.
 
-## Recordatori
+## Exemple de joc de proves
 
-Un bon prompt ha d'indicar on ha de viure cada peça: controlador, Twig, CSS/LESS o JS.
+- Hi ha cotxes -> es mostra la llista.
+- No hi ha cotxes -> es mostra un estat buit o no es trenca la pàgina.
+- Cotxe que compleix el criteri -> aplica la classe esperada.
+- Dos elements compleixen el criteri -> no es repeteixen ids.
